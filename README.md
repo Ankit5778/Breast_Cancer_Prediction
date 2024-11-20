@@ -1,1 +1,2 @@
 # Breast_Cancer_Prediction
+The breast cancer prediction project is a machine learning application designed to classify breast cancer diagnoses using logistic regression. The model was developed by preprocessing data obtained from Kaggle, ensuring it was clean and ready for analysis. Logistic regression was chosen for its efficiency in handling binary classification problems, such as predicting whether a tumor is malignant or benign.
